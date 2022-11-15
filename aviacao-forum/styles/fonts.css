@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'funk';
+    src: url('/componets/fonts/Funk.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ubuntu';
+    src: url('/componets/fonts/ubuntu-title-fr-1.1.ttf') format('woff2'),
+         url('/componets/fonts/Ubuntu-Title.ttf') format('woff') ;
+    font-weight: normal;
+    font-style: normal;
+}
